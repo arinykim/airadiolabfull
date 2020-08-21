@@ -48,7 +48,7 @@ a:hover {text-decoration: underline; color: white;}
   grid-template-rows: repeat(5, 1fr);
   padding: 10px;
   text-align: center;
-  background-image: url("/Users/themultidimensional/Documents/GitHub/airadiolabdemo/mainradio.jpg");
+  background-image: url("/Users/themultidimensional/Documents/GitHub/airadiolabfull/mainradio.jpg");
   background-size:cover;
   transition: background-color .3;
 }
